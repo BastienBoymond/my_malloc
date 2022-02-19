@@ -1,0 +1,6 @@
+*.o
+*.so
+main.c
+test
+a.out
+moul_malloc_stud
